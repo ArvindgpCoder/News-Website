@@ -1,9 +1,13 @@
 # News-Website
 
-Show real time news.
-    
-TechStack Used: HTML , CSS , JavaScript.
+I have developed a news website that allows users to view the latest news articles from various sources in a visually appealing manner."
 
-API Used: gnews.io
+**Tech Stack:**
+The website was built using HTML, CSS, and JavaScript to create the user interface and handle client-side interactions.
 
-Wesbite: https://newsnetlify.netlify.app/
+**API Integration:**
+To obtain the latest news articles, the website integrates with a third-party news API. The API allows us to retrieve news data in a structured format.
+
+**API Used:** gnews.io
+
+**Wesbite:** https://newsnetlify.netlify.app/
