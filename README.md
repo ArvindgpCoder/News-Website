@@ -1,6 +1,6 @@
 # News-Website
 
-I have developed a news website that allows users to view the latest news articles from various sources in a visually appealing manner."
+I have developed a news website that allows users to view the latest news articles from various sources in a visually appealing manner.
 
 **Tech Stack:**
 The website was built using HTML, CSS, and JavaScript to create the user interface and handle client-side interactions.
